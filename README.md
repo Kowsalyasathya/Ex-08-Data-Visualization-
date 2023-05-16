@@ -117,7 +117,7 @@ pivot_data.plot(kind='bar', stacked=True, figsize=(8, 5))
 plt.legend(title='Region')
 plt.legend(loc='best')
 plt.title("Sales and Profit based on Segment,Ship mode and Region")
-
+```
 # OUPUT:
 ![8 1](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/00eeab2e-221d-471c-9685-ffe3c05a29e8)
 ![8 2](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/58568e41-d02e-496c-abda-aed0ad69fad6)
