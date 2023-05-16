@@ -1,4 +1,4 @@
-# Ex-07-Data-Visualization-
+# Ex-08-Data-Visualization-
 
 ## AIM
 To Perform Data Visualization on the given dataset and save the data to a file. 
@@ -17,6 +17,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 # CODE
 Name : Kowsalya M
+
 Register No : 212222230069
 ```
 import pandas as pd
