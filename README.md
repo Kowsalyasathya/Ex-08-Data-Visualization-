@@ -118,21 +118,11 @@ plt.legend(title='Region')
 plt.legend(loc='best')
 plt.title("Sales and Profit based on Segment,Ship mode and Region")
 
-# OUPUT :
+# OUPUT:
+![8 1](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/00eeab2e-221d-471c-9685-ffe3c05a29e8)
 
-![8 1](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/a6345c6e-1661-4a05-9079-e276265f0846)
-![8 2](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/30f733aa-61e1-4a61-9c39-30fc94ed8efd)
-![8 3](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/39e7d850-da67-48e0-843a-e3a1838041b8)
-![8 4](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/b8cfd082-9158-4d87-be00-ee1c9cdcbd6c)
-![8 5](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/e5fbb457-ec62-4326-8222-050f96b51fba)
 
-![8 6](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/b9a6644d-6f85-4cdf-809b-758dec201e2c)
-![8 7](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/365162e2-0619-4ee9-b795-0187ca54a0e2)
 
-![8 8](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/31a8d49f-8c03-4beb-aee3-ee893e994a3d)
-![8 9](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/4c6d9960-c21f-4db3-9615-2927131dfd6d)
-![8 10](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/642664bf-0677-4269-9bef-3ff2d4c32b2b)
-![8 11](https://github.com/Kowsalyasathya/Ex-08-Data-Visualization-/assets/118671457/c671fec4-075f-4502-a9ce-b74511dc565f)
 
 ## Result :
 Hence the data visualization method for the given dataset applied successfully.
